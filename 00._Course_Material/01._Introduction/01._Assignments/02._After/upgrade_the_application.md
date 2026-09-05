@@ -31,13 +31,14 @@ If you run other Python projects they would conflict with the legacy dependencie
 
 Python solves this with virtual environments. To create one (all platforms):
 
-
 > [!TIP]
-> Python has stopped including the a tool you will install after setting up your virtual enviroment. You need Python `3.12.0` or less. On Windows you can install old version of Python through the **Windows Store**.
+> You will need Python `3.12.0` or lower, as newer versions of Python no longer include a tool you will install in the virtual environment later.
 > 
-> For **Linux/Unix** MacOS(homebrew) you can use https://github.com/pyenv/pyenv to directly manage your installed version of Python.
+> On Windows, you can install older versions of Python through the **Microsoft Store**.
 > 
-> Note for **Windows users**: pyenv does have a fork that allows you to run it as well, however this is not officially supported by the team behind pyenv.
+> For **Linux/Unix** and **macOS (Homebrew)**, you can use [pyenv](https://github.com/pyenv/pyenv) to directly manage your installed versions of Python.
+> 
+> Note for **Windows users**: pyenv does have a fork that allows you to run it as well, but this is not officially supported by the pyenv team.
 
 
 ```bash
