@@ -25,11 +25,20 @@ The dependencies have been defined in `requirements.txt`.
 > [!CAUTION]
 > The dependencies are pinned to very old version. Remove the versions in order to be able to run them.
 
-You wouldn't want to install the dependencies globaly. 
+You wouldn't want to install the dependencies globally. 
 
 If you run other Python projects they would conflict with the legacy dependencies of `whoknows`. 
 
 Python solves this with virtual environments. To create one (all platforms):
+
+
+> [!TIP]
+> Python has stopped including the a tool you will install after setting up your virtual enviroment. You need Python `3.12.0` or less. On Windows you can install old version of Python through the **Windows Store**.
+> 
+> For **Linux/Unix** MacOS(homebrew) you can use https://github.com/pyenv/pyenv to directly manage your installed version of Python.
+> 
+> Note for **Windows users**: pyenv does have a fork that allows you to run it as well, however this is not officially supported by the team behind pyenv.
+
 
 ```bash
 $ python -m venv .venv
@@ -60,9 +69,6 @@ You might need to define pip3 if you can't run pip.
 ## Converting from Python 2 -> 3.  
 
 There are multiple ways to achieve this. One is to install and use the `2to3` tool.
-
-> [!TIP]
-> Python has stopped including the `2to3` tool in the newest version. You need Python `3.12.0` or less. On Windows you can install old version of Python through the Windows Store.
 
 #### Installation
 
