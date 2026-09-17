@@ -22,11 +22,11 @@ GROUP_REPOS = [
     { 
         "name": "WeKnowXD",
         "gitLinks": ["https://github.com/WeKnowXD/WeKnowXD_Project"],
-        "backend": "",
-        "frontend": "",
+        "backend": "http://51.120.81.214:8080/",
+        "frontend": "http://51.120.81.214:8080/",
         "monitoring": "",
-        "stack": [],
-        "documentation": [],
+        "stack": ["Go", "Go Standard Library", "SQLite3"],
+        "documentation": ["https://github.com/WeKnowXD/WeKnowXD_Doc"],
         "sla": "",
     }, 
 
