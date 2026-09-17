@@ -12,10 +12,10 @@ GROUP_REPOS = [
     {
         "name": "visionJAMx",
         "gitLinks": ["https://github.com/visionJAMx/whoknows"],
-        "backend": "",
-        "frontend": "",
+        "backend": "http://4.165.140.243:8080/",
+        "frontend": "http://4.165.140.243:8080/",
         "monitoring": "",
-        "stack": [],
+        "stack": ["Go", "Gin", "SQLite"],
         "documentation": [],
         "sla": "",
     }, 
