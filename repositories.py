@@ -53,9 +53,11 @@ GROUP_REPOS = [
     {
         "name": "GenZM0nks",
         "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
-        "backend": "https://20.251.205.81:8080/api/*",
-        "frontend": "https://20.251.205.81:8080/*",
+        "backend": "https://20.251.205.81:8080/api/",
+        "frontend": "https://20.251.205.81:8080/",
         "monitoring": "",
+        "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
+        "documentation": ["https://github.com/GenZM0nks/AscendingMonk/blob/main/docs/swagger.yaml"],
         "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
         "documentation": ["https://github.com/GenZM0nks/AscendingMonk/blob/main/docs/swagger.yaml"],
         "sla": "",
