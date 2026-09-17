@@ -58,8 +58,6 @@ GROUP_REPOS = [
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
         "documentation": ["https://github.com/GenZM0nks/AscendingMonk/blob/main/docs/swagger.yaml"],
-        "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
-        "documentation": ["https://github.com/GenZM0nks/AscendingMonk/blob/main/docs/swagger.yaml"],
         "sla": "",
     },
     {
