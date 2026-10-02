@@ -44,17 +44,23 @@ GROUP_REPOS = [
     {
     "name": "JakobMagnusBardie",
     "gitLinks": ["https://github.com/JacobMagnusBardie/WhoKnowsWho"],
-    "backend": "",
-    "frontend": "",
+    "backend": "http://20.100.207.69:8080/",
+    "frontend": "http://20.100.207.69:8080/",
     "monitoring": "",
-    "stack": [],
-    "documentation": [],
+    "stack": [
+        "Go", 
+        "Go Standard Libary", 
+        "SQLite3"
+        ],
+    "documentation": [
+        "https://github.com/JacobMagnusBardie/WhoKnowsWho/blob/dev/backend/API-specs/swagger.json"
+        ],
     "sla": "",
 },
     {
         "name": "GenZM0nks",
         "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
-        "backend": "http://20.251.205.81:8080/api/",
+        "backend": "http://20.251.205.81:8080/",
         "frontend": "http://20.251.205.81:8080/",
         "monitoring": "",
         "stack": ["Go", "Go Standard Library", "sqlite3" "swag", "revive"],
@@ -74,8 +80,8 @@ GROUP_REPOS = [
     {
     "name": "devops-gruppe-2",
     "gitLinks": ["https://github.com/devops-gruppe-2/search-engine"],
-    "backend": "",
-    "frontend": "",
+    "backend": "http://20.250.11.23:8080/api/",
+    "frontend": "http://20.250.11.23:8080/",
     "monitoring": "",
     "stack": [],
     "documentation": [],

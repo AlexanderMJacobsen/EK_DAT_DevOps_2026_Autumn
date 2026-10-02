@@ -52,7 +52,9 @@ Choose the `Variables` tab and edit the variables. Change the `BASE_URL` to the 
 
 ## Create tests
 
-On the request page, click on the `Post-response` in the `Scripts` tab:
+On the request page, click on the a route, select the `Scripts` tab and `Post-response` to define what should happen after a request. 
+
+Click on `</> Snippets` to get test code for different cases:
 
 <img src="./assets_postman_monitoring/create_tests.png">
 

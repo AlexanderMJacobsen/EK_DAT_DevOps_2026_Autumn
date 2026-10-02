@@ -4,7 +4,7 @@
 
 **Part of mandatory I.**
 
-**Motivation**: Learn how to generate OpenAPI Specification for your framework and programming language of choice. 
+**Motivation**: Learn how to generate OpenAPI Specification with your framework / programming language of choice. 
 
 ---
 
