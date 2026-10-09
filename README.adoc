@@ -309,7 +309,7 @@ link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/set
 
 link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/docker_from_scratch.md[Docker from scratch]
 
-link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/begin_dockerization.md[Begin Dockerization]
+link:00._Course_Material/05._Docker_The_Simulation/01._Assignments/02._After/dockerize_now.md[Dockerize Now!]
 a|
 Understands different levels of build tools from OS to language-specific ones.
 
@@ -356,8 +356,6 @@ link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/02._Slide
 
 a|
 link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/100+_docker_concepts_you_need_to_know.md[100+ docker concepts you need to know]
-
-link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/generate_cr_pat.md[Generate CR_PAT]
 
 link:00._Course_Material/06._Docker_compose_Continuous_Delivery_DevOps/01._Assignments/01._Before/read_devops_literature_I.md[Read DevOps Literature I]
 
